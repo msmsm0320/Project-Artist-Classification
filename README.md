@@ -70,7 +70,3 @@ ResNet 50은 잔차 학습(Residual Learning) 방식을 도입하여 네트워�
 
 ---
 
-## Q&A
-궁금한 점이나 개선 사항이 있다면 [Issues](https://github.com/msmsm0320/smart_weather_forecast/issues) 탭을 통해 문의해주세요.
-
-**감사합니다!**
